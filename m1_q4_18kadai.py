@@ -6,3 +6,4 @@ for p in phrase:
 print(len(phrase) - len(list_p)) # 元の文字列の長さから重複を除いた文字数を引くことで、重複していた文字の数を求めています。
 for p in list_p:
      print(p, end="")
+print() # 改行のみ
