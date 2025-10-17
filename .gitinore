@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+wheels/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / databases
+*.log
+*.sqlite3
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test / coverage reports
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+.cache/
+
+# mypy / type checking
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# Others
+*.bak
+
